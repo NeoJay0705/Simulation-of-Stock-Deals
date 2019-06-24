@@ -1,0 +1,12 @@
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\bin\Debug\LoginForm.exe.config
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\bin\Debug\LoginForm.exe
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\bin\Debug\LoginForm.pdb
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.Login.resources
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.Register.resources
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.exe
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\obj\Debug\LoginForm.pdb
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\bin\Debug\PersonalLibrary.dll
+F:\VisualStudioExample\[CS274]DEMO\LoginForm\bin\Debug\PersonalLibrary.pdb

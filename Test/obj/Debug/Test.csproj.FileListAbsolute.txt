@@ -1,0 +1,6 @@
+F:\VisualStudioExample\[CS274]DEMO\Test\bin\Debug\Test.exe.config
+F:\VisualStudioExample\[CS274]DEMO\Test\bin\Debug\Test.exe
+F:\VisualStudioExample\[CS274]DEMO\Test\bin\Debug\Test.pdb
+F:\VisualStudioExample\[CS274]DEMO\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\VisualStudioExample\[CS274]DEMO\Test\obj\Debug\Test.exe
+F:\VisualStudioExample\[CS274]DEMO\Test\obj\Debug\Test.pdb

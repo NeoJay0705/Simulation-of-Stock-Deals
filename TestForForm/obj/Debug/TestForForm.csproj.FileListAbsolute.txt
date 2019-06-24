@@ -1,0 +1,9 @@
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\bin\Debug\TestForForm.exe.config
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\obj\Debug\TestForForm.csprojResolveAssemblyReference.cache
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\obj\Debug\TestForForm.Properties.Resources.resources
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\obj\Debug\TestForForm.csproj.GenerateResource.Cache
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\bin\Debug\TestForForm.exe
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\bin\Debug\TestForForm.pdb
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\obj\Debug\TestForForm.Form1.resources
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\obj\Debug\TestForForm.exe
+F:\VisualStudioExample\[CS274]DEMO\TestForForm\obj\Debug\TestForForm.pdb

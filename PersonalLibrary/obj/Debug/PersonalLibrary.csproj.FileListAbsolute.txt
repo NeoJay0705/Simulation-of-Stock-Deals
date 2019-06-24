@@ -1,0 +1,5 @@
+F:\VisualStudioExample\[CS274]DEMO\PersonalLibrary\obj\Debug\PersonalLibrary.csprojResolveAssemblyReference.cache
+F:\VisualStudioExample\[CS274]DEMO\PersonalLibrary\bin\Debug\PersonalLibrary.dll
+F:\VisualStudioExample\[CS274]DEMO\PersonalLibrary\bin\Debug\PersonalLibrary.pdb
+F:\VisualStudioExample\[CS274]DEMO\PersonalLibrary\obj\Debug\PersonalLibrary.dll
+F:\VisualStudioExample\[CS274]DEMO\PersonalLibrary\obj\Debug\PersonalLibrary.pdb

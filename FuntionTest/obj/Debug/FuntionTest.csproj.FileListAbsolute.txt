@@ -1,0 +1,8 @@
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\bin\Debug\FuntionTest.exe.config
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\bin\Debug\FuntionTest.exe
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\bin\Debug\FuntionTest.pdb
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\obj\Debug\FuntionTest.exe
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\obj\Debug\FuntionTest.pdb
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\bin\Debug\PersonalLibrary.dll
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\bin\Debug\PersonalLibrary.pdb
+F:\VisualStudioExample\[CS274]DEMO\FuntionTest\obj\Debug\FuntionTest.csprojResolveAssemblyReference.cache
